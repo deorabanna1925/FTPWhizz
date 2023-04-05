@@ -1,0 +1,31 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.seewhizz.ftpwhizz.MainActivity">
+
+
+    <item
+        android:id="@+id/action_create_local_folder"
+        android:orderInCategory="1"
+        android:title="@string/create_local_folder"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_create_local_file"
+        android:orderInCategory="2"
+        android:title="@string/create_local_file"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="3"
+        android:title="@string/action_settings"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_refresh"
+        android:orderInCategory="4"
+        android:title="@string/refresh"
+        app:showAsAction="never" />
+
+</menu>

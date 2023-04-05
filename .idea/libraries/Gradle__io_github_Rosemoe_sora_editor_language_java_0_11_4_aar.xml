@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: io.github.Rosemoe.sora-editor:language-java:0.11.4@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/e4734a1d00f1d847e257973a5e68354e/transformed/language-java-0.11.4/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/e4734a1d00f1d847e257973a5e68354e/transformed/language-java-0.11.4/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.github.Rosemoe.sora-editor/language-java/0.11.4/30919d96cd37d385cec32101a647f602193875f0/language-java-0.11.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
